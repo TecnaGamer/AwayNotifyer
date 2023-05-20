@@ -2,4 +2,4 @@
 
 If someone pings you on discord, a bot will reply saying that your away.
 
-IOS shortcut: https://www.icloud.com/shortcuts/2eebc61e403242eb8fff1375addbd92c
+IOS shortcut: https://www.icloud.com/shortcuts/c7d47172b934411b878046e37edfd6b4
